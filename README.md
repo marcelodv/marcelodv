@@ -1,4 +1,4 @@
-### Hi dear 👋, I'm Marcelo Santos
+### <h1 align="center">Hi Dev 👋, I'm Marcelo Santos</h1>
 
 <h3 align="center">A Web Developer focused on learn about the best web & mobile development technologies</h3>
 
@@ -6,3 +6,5 @@
 - 📫 How to reach me: marcelo.santos.dev@gmail.com
 - 😄 Pronouns: Let's be friends!!
 - ⚡ **18y**
+
+<img src="hhttps://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" alt="maykbrito" /> 
