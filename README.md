@@ -1,6 +1,7 @@
 ### <h1 align="center">Marcelo Santos 👽</h1>
 
-<h3 align="center">A Web Developer focused on learn about the best web & mobile development technologies<br></h3>
+<h3 align="center">A Web Developer focused on learn about the best web & mobile development technologies</h3>
+<br/>
 
 - 🔭 I'm studying **ReactJS, React Native and NodeJS**
 
@@ -11,7 +12,7 @@
 - ⚡ **18y**
 
 <p align="center">
-  “Learning is the only thing that the mind never tires, never fears and never regrets.”
+  <strong>“Learning is the only thing that the mind never tires, never fears and never regrets.”<strong/>
 </p>
 
 <p align="center">
