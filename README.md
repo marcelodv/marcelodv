@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: marcelo.santos.dev@gmail.com
 
-- 😄 Pronouns: Let's be friends!!
+- 😄 Hey: Let's be friends!!
 
 - ⚡ **18y**
 
