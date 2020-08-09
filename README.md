@@ -1,6 +1,6 @@
-### <h1 align="center">Hi Dev 👋, I'm Marcelo Santos</h1>
+### <h1 align="center">Marcelo Santos 👽</h1>
 
-<h3 align="center">A Web Developer focused on learn about the best web & mobile development technologies</h3>
+<h3 align="center">A Web Developer focused on learn about the best web & mobile development technologies<br></h3>
 
 - 🔭 I'm studying **ReactJS, React Native and NodeJS**
 
@@ -9,6 +9,10 @@
 - 😄 Pronouns: Let's be friends!!
 
 - ⚡ **18y**
+
+<p align="center">
+  “Learning is the only thing that the mind never tires, never fears and never regrets.”
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" alt="marcelodev" />   
