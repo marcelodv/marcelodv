@@ -7,4 +7,6 @@
 - 😄 Pronouns: Let's be friends!!
 - ⚡ **18y**
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" alt="marcelodev" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" alt="marcelodev" />   
+</p>
