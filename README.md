@@ -1,4 +1,4 @@
-### <h1 align="center">Marcelo Santos 👽</h1> <br />
+### <h1 align="center">Marcelo Santos 👽<br /></h1> 
 <h3 align="center">A Web Developer focused on learn about the best web & mobile development technologies</h3>
 <br/>
 
