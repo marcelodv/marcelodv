@@ -6,7 +6,7 @@
 
 📡 Contact: marcelo.santos.dev@gmail.com
 
-In love with :coffee:
+💜 In love with ☕️
 
 <p align="center">
   <strong>“Learning is the only thing that the mind never tires, never fears and never regrets.”<strong/>
