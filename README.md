@@ -3,16 +3,19 @@
 <br/>
 
 
-    📗 Studying  ReactJS, React Native and NodeJS
-    
-    📡 Contact: marcelo.santos.dev@gmail.com
-    
-    💜 In love with :coffee:
+
     
     
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" alt="marcelodev" />   
-</p>
+        <p align="center">
+           <p>
+            📗 Studying  ReactJS, React Native and NodeJS
+
+            📡 Contact: marcelo.santos.dev@gmail.com
+
+            💜 In love with ☕️
+           </p>
+          <img src="https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" alt="marcelodev" />   
+        </p>
 
 
 
