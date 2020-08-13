@@ -6,11 +6,11 @@
 
     📡 Contact: marcelo.santos.dev@gmail.com
 
-    💜 In love with ☕️
+    💜 In love with Coffee & Pizza
 
 </hr>
     
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" alt="marcelodev" />   
 </p>
 
