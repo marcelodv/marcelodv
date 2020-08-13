@@ -1,4 +1,4 @@
-### <h1 align="center"> :octocat: Marcelo Santos <br /></h1> 
+### <h1 align="center"> Marcelo Santos :octocat: </h1> 
 <h3 align="center">“Learning is the only thing that the mind never tires, never fears and never regrets.”</h3>
 <br/>
 
