@@ -6,7 +6,7 @@
 
 📡 Contact: marcelo.santos.dev@gmail.com
 
-⚡ **18 years old**
+In love with :coffee:
 
 <p align="center">
   <strong>“Learning is the only thing that the mind never tires, never fears and never regrets.”<strong/>
