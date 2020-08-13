@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer focused on learn about the best web & mobile development technologies</h3>
 <br/>
 
-- 🔭 I'm studying **ReactJS, React Native and NodeJS**
+- :react: **ReactJS, React Native and NodeJS**
 
 - 📫 How to reach me: marcelo.santos.dev@gmail.com
 
