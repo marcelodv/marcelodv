@@ -1,10 +1,12 @@
-### <h1 align="center"> Marcelo Santos :octocat: </h1> 
-<h3 align="center">“Learning is the only thing that the mind never tires, never fears and never regrets.”</h3>
+### <h1> Marcelo Santos :octocat: </h1> 
+<h3>“Learning is the only thing that the mind never tires, never fears and never regrets.”</h3>
 <br/>
 
 
     📗 Studying  ReactJS, React Native and NodeJS
+    
     📡 Contact: marcelo.santos.dev@gmail.com
+    
     💜 In love with :coffee:
     
     
