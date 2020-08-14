@@ -9,5 +9,5 @@
    💜 In love with Coffee & Pizza
 <hr/>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" alt="marcelodev" />   
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true" />   
 </p>
