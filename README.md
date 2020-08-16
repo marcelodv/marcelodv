@@ -1,9 +1,8 @@
-<h2>“Learning is the only thing that the mind never tires, never fears and never regrets.”</h2> 
+## <h2>“Learning is the only thing that the mind never tires, never fears and never regrets.”</h2> 
 
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true&theme=dracula"> &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodv&hide=php&layout=compact&theme=dracula">
-</p>
+## Stats
+<img src = "https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true&theme=dracula">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodv&hide=php&layout=compact&theme=dracula">
 
 ## Contact
 [![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marceludv)
