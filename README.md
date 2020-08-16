@@ -1,4 +1,4 @@
-# “Remember that people can take everything away from you except your knowledge.”
+# “A persistência sempre anda de mãos dadas com o propósito!.”
 
 ## See Me On
 [![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marceludv)
