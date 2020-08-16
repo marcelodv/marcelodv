@@ -1,4 +1,4 @@
-## “Learning is the only thing that the mind never tires, never fears and never regrets.”
+# “Learning is the only thing that the mind never tires, never fears and never regrets.”
 
 ## See Me On
 [![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marceludv)
