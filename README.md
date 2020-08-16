@@ -1,5 +1,4 @@
-# <h1> Marcelo Santos :octocat: </h1> 
-<h3>“Learning is the only thing that the mind never tires, never fears and never regrets.”</h3>
+<h2>“Learning is the only thing that the mind never tires, never fears and never regrets.”</h2>
 
    [![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marceludv)
    
