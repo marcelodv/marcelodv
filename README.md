@@ -4,3 +4,5 @@
 
 # My Stats
 <img src = "https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true&theme=dracula">
+
+# Studying: ReactJS + React Native + NodeJS 
