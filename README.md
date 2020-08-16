@@ -6,4 +6,3 @@
 
 ## My Stats
 <img src = "https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true&theme=dracula">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodv&hide=php&layout=compact&theme=dracula">
