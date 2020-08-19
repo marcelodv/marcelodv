@@ -8,4 +8,7 @@
 [![ReactJS](https://img.shields.io/badge/-ReactJS-4398af?style=for-the-badge&logo=Reactjs&logoColor=white)](https://reactjs.org/)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-026e00?style=for-the-badge&logo=Nodejs&logoColor=white)](https://nodejs.org/en/)
 [![ReactJS](https://img.shields.io/badge/-React_Native-4355af?style=for-the-badge&logo=ReactNative&logoColor=white)](https://reactnative.dev/)
-<img src = "https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true&theme=dracula">
+
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=marcelodv&show_icons=true&theme=dracula">
+</p>
