@@ -1,6 +1,8 @@
 # Marcelo Santos
 
-Técnico formado em Informática para Internet (Desenvolvimento para Web) pela ETEC Hortolândia e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
+ <h4>
+    Técnico formado em Informática para Internet (Desenvolvimento para Web) pela ETEC Hortolândia e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
+  </h4>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marceludv)
 [![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marcelosantos.dev/)
