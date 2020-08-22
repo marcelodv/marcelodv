@@ -1,4 +1,4 @@
-# Hello, Nerds <3 
+# Hello, nerds 🖖🏻
 
 <p>
 Web Developer and Mobile Developer. Conto com conhecimento em HTML, CSS , PHP, SQL e Javascript. Dentro do Javascript tenho habilidade com ReactJS, NodeJS e React Native (Mobile).
