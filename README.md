@@ -1,4 +1,4 @@
-# Hello, nerds 🖖🏻
+# Hello, nerds! 🖖🏻
 
 <p>
 Sou Técnico formado em Informática para Internet (Desenvolvimento para Web) pela ETEC Hortolândia e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi. 
